@@ -1,5 +1,10 @@
 # Java-project
-Sem-1 project
+
+
+
+
+
+
 import java.util.Scanner;
 
 class StudentProject {
